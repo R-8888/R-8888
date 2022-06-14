@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahul
 - 👀 I’m interested in JavaScript and NodeJS Projects
 - 🌱 I’m currently learning ReactJS also for frontend Development
-- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me +918999939858 or <a href='https://wa.me/918999939858'>Whats App me</a>
 
 <!---
